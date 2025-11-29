@@ -1,4 +1,9 @@
 a. Introduction:
+Amina Usman
+Roll NumberL 25014119-022
+BSCS Evening ( SECTION A)
+
+Programming Language that i used is C++.
 In this assignment, I solved different basic programming problems using the C++ language. I chose C++ because it is easy to learn, has clear syntax. 
 These tasks helped me understand variables, input/output, calculations, and simple decision-making in programming.
 
